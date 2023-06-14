@@ -2,13 +2,13 @@ my-env
 ======
 Personal digital stuff I need to feel cozy on my boxes.
 
-Requirements
-------------
+⚠️ Requirements
+----------------
 Runs on Windows or Linux. Requires the installation of Git (for Windows).
 
-Setup
------
-Execute the following: (copy&paste recommended)
+🔧 Installation
+----------------
+In a terminal window execute the following: (copy&paste recommended)
 ```
 cd ~
 git clone https://github.com/fleschutz/my-env
