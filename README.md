@@ -15,7 +15,7 @@ git clone https://github.com/fleschutz/my-env
 cd my-env
 cp powershell-profile.ps1 $PROFILE           (when in a PowerShell session)
 
-sudo snap install ant audacity bashtop cmake emacs gimp go groovy htop hw-probe python38    (when using Linux & Snaps)
+sudo snap install ant audacity bashtop chromium cmake emacs ffmpeg firefox gimp go groovy htop hw-probe nano python38    (when using Linux & Snaps)
 ```
 
 🔧 Desktop Setup
