@@ -6,8 +6,8 @@ $host.ui.RawUI.WindowTitle = "$Username @ $(hostname)"
 function prompt { Write-Host -noNewline -foregroundColor yellow "`n➤"; return " " }
 
 # ALIAS NAMES
-del alias:pwd -force -errorAction SilentlyContinue
+Remove-Item alias:pwd -force -errorAction SilentlyContinue
 Set-Alias -name pwd -value list-workdir.ps1	# pwd = print working directory
 Set-Alias -name ll -value Get-ChildItem		# ll = list folder (long format)
-del alias:ls -force -errorAction SilentlyContinue 
+Remove-Item alias:ls -force -errorAction SilentlyContinue 
 Set-Alias -name ls -value list-folder.ps1	# ls = list folder (short format)
