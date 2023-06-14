@@ -7,5 +7,5 @@ Setup
 
 ```
 cd ~
-git clone https://github.com/fleschutz/my-env.git
+git clone https://github.com/fleschutz/my-env
 ```
