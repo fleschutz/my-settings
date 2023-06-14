@@ -15,7 +15,9 @@ git clone https://github.com/fleschutz/my-env
 cd my-env
 cp powershell-profile.ps1 $PROFILE           (when in a PowerShell session)
 
-winget install Git.Git Google.Chrome Greenshot.Greenshot (on Windows)
+winget install Git.Git          (Windows only)
+winget install Google.Chrome
+winget install Greenshot.Greenshot 
 
 sudo apt install ... (on Linux)
 
