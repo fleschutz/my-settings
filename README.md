@@ -13,7 +13,9 @@ In a terminal window execute the following: (copy&paste recommended)
 cd ~
 git clone https://github.com/fleschutz/my-env
 cd my-env
-cp powershell-profile.ps1 $PROFILE           (when using PowerShell)
+cp powershell-profile.ps1 $PROFILE           (when in a PowerShell session)
+
+snap install ant, audacity, bashtop, cmake, emacs, gimp, htop, hw-probe, cppcheck, go, groovy, python38    (when using Linux & Snaps)
 ```
 
 🔧 Desktop Setup
