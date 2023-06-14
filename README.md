@@ -15,6 +15,10 @@ git clone https://github.com/fleschutz/my-env
 cd my-env
 cp powershell-profile.ps1 $PROFILE           (when in a PowerShell session)
 
+winget install ... (on Windows)
+
+sudo apt install ... (on Linux)
+
 sudo snap install ant audacity bashtop chromium cmake emacs ffmpeg firefox gimp go groovy htop hw-probe nano python38    (when using Linux & Snaps)
 ```
 
