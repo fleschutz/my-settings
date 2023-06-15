@@ -1,5 +1,5 @@
-my-env
-======
+My Environment
+==============
 Personal digital stuff I need to feel cozy on my boxes.
 
 ⚠️ Requirements
