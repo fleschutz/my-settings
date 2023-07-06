@@ -4,7 +4,7 @@ Personal digital stuff I need to feel cozy on my Android/Linux/Windows boxes.
 
 ⚠️ Requirements
 ----------------
-On Windows it requires the installation of 'Git for Windows´.
+On Windows it requires the installation of *Git for Windows*.
 
 🔧 Terminal Setup
 ------------------
