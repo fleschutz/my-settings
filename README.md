@@ -1,10 +1,10 @@
 My Environment
 ==============
-Personal digital stuff I need to feel cozy on my boxes.
+Personal digital stuff I need to feel cozy on my Android/Linux/Windows boxes.
 
 ⚠️ Requirements
 ----------------
-Runs on Windows or Linux. Requires the installation of Git (for Windows).
+On Windows it requires the installation of 'Git for Windows´.
 
 🔧 Terminal Setup
 ------------------
