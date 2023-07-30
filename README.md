@@ -24,5 +24,6 @@ sudo snap install ant audacity bashtop chromium cmake emacs ffmpeg firefox gimp 
 
 🔧 Desktop Setup
 ------------------
-1. Open *Windows Settings* > *Personalisation* and set the desktop wallpaper and lockscreen.
-2. Go to the fonts folder and install the Fira Code fonts.
+1. Open *Windows Settings* > *Personalisation* and set the desktop wallpaper (using the *pictures* folder).
+2. Open *Windows Settings* > *Personalisation* and set the lock screen (using the *pictures* folder).
+3. Go to the TTF fonts folder, select all, and install the fonts.
