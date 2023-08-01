@@ -4,7 +4,8 @@ Personal digital stuff I need to feel cozy on my Android/Linux/Windows boxes.
 
 ⚠️ Requirements
 ----------------
-On Windows it requires the installation of *Git for Windows*.
+1. On Windows it requires the installation of *Git for Windows*.
+2. Download and extract or 'git clone' this repository into the home folder.
 
 💻 Desktop Setup
 ------------------
@@ -15,6 +16,10 @@ On Windows it requires the installation of *Git for Windows*.
 5. Configure to use those fonts in *Visual Studio Code*.
 6. Configure to use those fonts in *Visual Studio 2017*.
 
+⚜️ Folder Icons
+----------------
+1. Open the *File Explorer*, go to the *icons* folder and copy the appropriate icon file to the folder.
+2. Rename the icon file to 'folder.jpg'.
 
 🔧 Terminal Setup
 ------------------
