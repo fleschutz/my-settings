@@ -18,8 +18,9 @@ Personal digital stuff I need to feel cozy on my Android/Linux/Windows boxes.
 
 ⚜️ Folder Icons
 ----------------
-1. Open the *File Explorer*, go to the *icons* folder and copy the appropriate icon file to the folder.
-2. Rename the icon file to 'folder.jpg'.
+1. Open the *File Explorer* and go to the *my-env/folder icons/* folder.
+2. Activate the 'Large Icon' view and select the appropriate icon.
+3. Copy that icon file into your folder and rename it to 'folder.jpg'.
 
 🔧 Terminal Setup
 ------------------
