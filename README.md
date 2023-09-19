@@ -37,3 +37,11 @@ sudo apt install ... (on Linux)
 
 sudo snap install ant audacity bashtop chromium cmake emacs ffmpeg firefox gimp go groovy htop hw-probe nano python38    (when using Linux & Snaps)
 ```
+
+📧 Feedback
+------------
+Send your email feedback to: markus.fleschutz [at] gmail.com
+
+🤝 License & Copyright
+-----------------------
+This open source project is licensed under the CC0 license. All trademarks are the property of their respective owners.
