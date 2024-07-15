@@ -1,11 +1,11 @@
 My Settings
 ===========
-Personal digital stuff I need to feel cozy on my Android/Linux/Windows boxes.
+Personal settings I need to feel cozy on my Android/Linux/Windows boxes.
 
-⚠️ Requirements
+🔧 Installation
 ----------------
-1. On Windows it requires the installation of *Git for Windows*.
-2. Download and extract or 'git clone' this repository into the home folder.
+* With Git installed: ´git clone https://github.com/fleschutz/my-settings´ this repository into the home folder.
+* Otherwise: download and extract this repository into the home folder.
 
 💻 Desktop Setup
 ------------------
@@ -27,8 +27,8 @@ Personal digital stuff I need to feel cozy on my Android/Linux/Windows boxes.
 In a terminal window execute the following: (copy&paste recommended)
 ```
 cd ~
-git clone https://github.com/fleschutz/my-env
-cd my-env
+git clone https://github.com/fleschutz/my-settings
+cd my-settings
 cp powershell-profile.ps1 $PROFILE           (when in a PowerShell session)
 
 ./install-windows-apps.ps1        (on Windows)
