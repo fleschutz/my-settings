@@ -4,7 +4,7 @@ Personal settings I need to feel cozy on my Android/Linux/Windows boxes.
 
 🔧 Installation
 ----------------
-* With Git installed: ´git clone https://github.com/fleschutz/my-settings´ this repository into the home folder.
+* With Git installed: `git clone https://github.com/fleschutz/my-settings` this repository into the home folder.
 * Otherwise: download and extract this repository into the home folder.
 
 💻 Desktop Setup
