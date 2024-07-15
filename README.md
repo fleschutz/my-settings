@@ -1,5 +1,5 @@
-My Digital Environment
-======================
+My Settings
+===========
 Personal digital stuff I need to feel cozy on my Android/Linux/Windows boxes.
 
 ⚠️ Requirements
