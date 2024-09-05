@@ -1,0 +1,29 @@
+[user]
+	name = Markus Fleschutz
+	email = markus.fleschutz@gmail.com
+[core]
+	editor = vi
+	autocrlf = false
+	symlinks = true
+	longpaths = true
+[http]
+	sslVerify = false
+[init]
+	defaultBranch = main
+[merge]
+	renamelimit = 99999
+[pull]
+	rebase = false
+[fetch]
+	parallel = 0
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	pl = pull --recurse-submodules
+	ps = push
+	mrg = merge --no-commit --no-ff
+	chp = cherry-pick --no-commit
+	ls = log -n20 --pretty=format:'%Cred%h%Creset%C(yellow)%d%Creset %s %C(bold blue)by %an%Creset %C(green)%cr%Creset' --abbrev-commit
+	smu = submodule update --init
