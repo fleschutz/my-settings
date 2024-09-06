@@ -7,14 +7,14 @@ Personal settings I need to feel cozy on my Android/Linux/Windows boxes.
 * Git installed? If yes, execute in a terminal window: `cd ~; git clone https://github.com/fleschutz/my-settings`
 * Otherwise, download and extract this repository into the home folder (see green button above).
 
-💻 Pictures
-------------
-1. Set a desktop wallpaper: Open *Windows Settings* > *Personalisation* and set the image in the *pictures/* subfolder.
-2. Set a lock screen: Open *Windows Settings* > *Personalisation* and set the image in the *pictures/* subfolder.
+💻 Wallpaper & Lockscreen
+--------------------------
+1. Set a desktop wallpaper: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop wallpapers* subfolder.
+2. Set a lock screen: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop lockscreens* subfolder.
 
 ⚜️ Folder Icons
 ----------------
-1. Open the *File Explorer* and go to the *folder icons/* subfolder.
+1. Open the *File Explorer* and go to the *folder icons* subfolder.
 2. Activate the 'Large Icon' view and select the appropriate icon.
 3. Copy that icon file into your folder and rename it to 'folder.jpg'.
 
