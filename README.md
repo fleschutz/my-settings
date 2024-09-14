@@ -14,8 +14,10 @@ My personal settings to feel cozy on any Android/Linux/Windows.
 
 💻 Install Basic Applications
 ------------------------------
-1. Uninstall bloatware by executing: `./uninstall-bloatware.ps1`
-2. Install basic applications by executing: `./install-basic-apps.ps1`
+1. Windows: Uninstall bloatware by executing: `./uninstall-bloatware.ps1`
+2. Windows: Install basic applications by executing: `./install-basic-apps.ps1`
+3. Linux: Install basic packages by executing: `sudo apt install ...`
+4. Linux: Install basic snaps by executing: `snap install ant audacity bashtop chromium cmake emacs ffmpeg firefox gimp go groovy htop hw-probe nano python38`
 
 ⚜️ Folder Icons
 ----------------
@@ -38,12 +40,6 @@ cd ~
 git clone https://github.com/fleschutz/my-settings
 cd my-settings
 cp powershell-profile.ps1 $PROFILE           (when in a PowerShell session)
-
-./install-windows-apps.ps1        (on Windows)
-
-sudo apt install ... (on Linux)
-
-sudo snap install ant audacity bashtop chromium cmake emacs ffmpeg firefox gimp go groovy htop hw-probe nano python38    (when using Linux & Snaps)
 ```
 
 📧 Feedback
