@@ -3,5 +3,6 @@
 & winget install Git.Git
 & winget install Google.Chrome
 & winget install Greenshot.Greenshot
+& winget install Microsoft.VisualStudioCode
 & winget install Microsoft.WindowsTerminal
 exit 0 # success
