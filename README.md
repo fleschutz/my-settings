@@ -12,10 +12,10 @@ My personal settings to feel cozy on any Android/Linux/Windows.
 1. Set a desktop wallpaper: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop wallpapers* subfolder.
 2. Set a desktop lockscreen: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop lockscreens* subfolder.
 
-💻 Install Applications
-------------------------
-1. De-bloat ...
-2. Install basic applications
+💻 Install Basic Applications
+------------------------------
+1. Uninstall bloatware by executing: `./uninstall-bloatware.ps1`
+2. Install basic applications by executing: `./install-basic-apps.ps1`
 
 ⚜️ Folder Icons
 ----------------
