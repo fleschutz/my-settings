@@ -1,6 +1,6 @@
 My Settings
 ===========
-Personal settings I need to feel cozy on my Android/Linux/Windows boxes.
+My personal settings to feel cozy on any Android/Linux/Windows.
 
 🔧 Installation
 ----------------
