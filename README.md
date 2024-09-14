@@ -7,17 +7,22 @@ My personal settings to feel cozy on any Android/Linux/Windows.
 * Git available? If yes, execute in a terminal window: `cd ~; git clone https://github.com/fleschutz/my-settings`
 * Otherwise, download and extract this repository into the home folder (see green button above).
 
+💻 Install Basic Apps on Windows
+---------------------------------
+1. Uninstall bloatware by executing: `./uninstall-bloatware.ps1`
+2. Install basic applications by executing: `./install-basic-apps.ps1`
+
+💻 Install Basic Apps on Linux
+------------------------------
+4. Install basic packages by executing: `sudo apt install ...`
+5. Install basic snaps by executing: `snap install ant audacity bashtop chromium cmake emacs ffmpeg firefox gimp go groovy htop hw-probe nano python38`
+
 💻 Configure Wallpaper & Lockscreen
 ------------------------------------
 1. Set a desktop wallpaper: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop wallpapers* subfolder.
 2. Set a desktop lockscreen: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop lockscreens* subfolder.
 
-💻 Install Basic Applications
-------------------------------
-1. Windows: Uninstall bloatware by executing: `./uninstall-bloatware.ps1`
-2. Windows: Install basic applications by executing: `./install-basic-apps.ps1`
-3. Linux: Install basic packages by executing: `sudo apt install ...`
-4. Linux: Install basic snaps by executing: `snap install ant audacity bashtop chromium cmake emacs ffmpeg firefox gimp go groovy htop hw-probe nano python38`
+
 
 ⚜️ Folder Icons
 ----------------
