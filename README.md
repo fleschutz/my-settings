@@ -2,15 +2,20 @@ My Settings
 ===========
 My personal settings to feel cozy on any Android/Linux/Windows.
 
-🔧 Installation
-----------------
-* Git installed? If yes, execute in a terminal window: `cd ~; git clone https://github.com/fleschutz/my-settings`
+🔧 Install this Repo
+---------------------
+* Git available? If yes, execute in a terminal window: `cd ~; git clone https://github.com/fleschutz/my-settings`
 * Otherwise, download and extract this repository into the home folder (see green button above).
 
-💻 Wallpaper & Lockscreen
---------------------------
+💻 Configure Wallpaper & Lockscreen
+------------------------------------
 1. Set a desktop wallpaper: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop wallpapers* subfolder.
-2. Set a lock screen: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop lockscreens* subfolder.
+2. Set a desktop lockscreen: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop lockscreens* subfolder.
+
+💻 Install Applications
+------------------------
+1. De-bloat ...
+2. Install basic applications
 
 ⚜️ Folder Icons
 ----------------
@@ -20,10 +25,10 @@ My personal settings to feel cozy on any Android/Linux/Windows.
 
 💻 Fonts
 ---------
-1. Install fonts for coding: Open the *File Explorer*, go to the *fonts/Fira_Code_v6.2/ttf* subfolder, select all, and install the fonts.
-2. Configure to use those fonts in *Windows Terminal*.
-3. Configure to use those fonts in *Visual Studio Code*.
-4. Configure to use those fonts in *Visual Studio 2017*.
+1. Install system-wide fonts for coding: Open the *File Explorer*, go to the *fonts/Fira_Code_v6.2/ttf* subfolder, select all, and install the fonts.
+2. Configure *Windows Terminal* to use those fonts.
+3. Configure *Visual Studio Code* to use those fonts.
+4. Configure *Visual Studio 2017* to use those fonts.
 
 🔧 Terminal Setup
 ------------------
