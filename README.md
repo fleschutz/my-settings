@@ -10,8 +10,7 @@ My Settings
 💻 Applications
 ----------------
 - On Windows: Uninstall bloatware by executing: `./uninstall-bloatware.ps1`, then install basic apps by executing: `./install-basic-apps.ps1`.
-- On Linux: Install basic packages by executing: `sudo apt install ...`.
-- On Linux: Install basic snaps by executing: `snap install ant audacity bashtop chromium cmake emacs ffmpeg firefox gimp go groovy htop hw-probe nano python38`.
+- On Linux: Install basic packages by executing: `sudo apt install ...`, then install basic snaps by executing: `snap install ant audacity bashtop chromium cmake emacs ffmpeg firefox gimp go groovy htop hw-probe nano python38`.
 
 💻 Wallpaper & Lockscreen
 --------------------------
