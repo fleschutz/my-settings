@@ -1,6 +1,6 @@
 My Settings
 ===========
-**Yes, I'm using and working with a LOT of Android, Linux, and Windows machines. Here are my personal settings to feel cozy on any machine. Goal is to set up my apps, the wallpaper, lockscreen, fonts, icons, and configs as fast as possible.**
+**Yes, I'm using and working on LOT of Android, Linux, and Windows machines. Here are my personal settings to feel cozy on any machine. Goal is to set up everything as fast as possible.**
 
 🔧 Installation
 ----------------
