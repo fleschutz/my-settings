@@ -1,6 +1,6 @@
 My Settings
 ===========
-**Yes, I'm using and working on a LOT of Android, Linux, and Windows machines. Here are my personal settings to feel cozy on any machine. Goal is to set up everything as fast as possible.**
+**Make yourself comfortable on any Android, Linux, or Windows machine. Here are my personal settings to feel cozy and to set up everything as fast as possible.**
 
 🔧 Installation
 ----------------
