@@ -10,7 +10,7 @@ My Settings
 📲 Basic Apps
 --------------
 - [ ] **On Windows:** Execute: `./uninstall-bloatware.ps1` and then: `./install-basic-apps.ps1`.
-- [ ] **On Linux:** Install basic packages by executing: `sudo apt install ...`, then install basic snaps by executing: `snap install ant audacity bashtop chromium cmake emacs ffmpeg firefox gimp go groovy htop hw-probe nano python38`.
+- [ ] **On Linux:** Execute: `./install-basic-apps.sh`
 
 💻 Basic Look & Feel
 ---------------------
