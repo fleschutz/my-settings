@@ -7,13 +7,13 @@ My Settings
 - [ ] **Git** already installed? If yes, execute in a terminal window: `cd ~; git clone https://github.com/fleschutz/my-settings`
 - [ ] **Otherwise,** download and extract this repo into the home folder (see green button above).
 
-💻 Basic Apps
--------------
+📲 Basic Apps
+--------------
 - [ ] **On Windows:** Execute: `./uninstall-bloatware.ps1` and then: `./install-basic-apps.ps1`.
 - [ ] **On Linux:** Install basic packages by executing: `sudo apt install ...`, then install basic snaps by executing: `snap install ant audacity bashtop chromium cmake emacs ffmpeg firefox gimp go groovy htop hw-probe nano python38`.
 
-💻 Look & Feel
---------------
+💻 Basic Look & Feel
+---------------------
 - [ ] Set a desktop wallpaper: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop wallpapers* subfolder.
 - [ ] Set a desktop lockscreen: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop lockscreens* subfolder.
 
