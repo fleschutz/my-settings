@@ -12,8 +12,8 @@ My Settings
 - [ ] **On Windows:** Execute: `./uninstall-bloatware.ps1` and then: `./install-basic-apps.ps1`.
 - [ ] **On Linux:** Execute: `./install-basic-apps.sh`
 
-💻 Basic Look & Feel
----------------------
+☀️ Basic Look
+--------------
 - [ ] Set a desktop wallpaper: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop wallpapers* subfolder.
 - [ ] Set a desktop lockscreen: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop lockscreens* subfolder.
 
