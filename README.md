@@ -18,14 +18,14 @@ My Settings
 - [ ] Set a desktop lockscreen: Open *Windows Settings* > *Personalisation* and choose an image in the *desktop lockscreens* subfolder.
 
 💻 Basic Fonts
---------------
+---------------
 - [ ] Install system-wide fonts for coding: Open the *File Explorer*, go to the *fonts/Fira_Code_v6.2/ttf* subfolder, select all, and install the fonts.
 - [ ] Configure *Windows Terminal* to use those fonts.
 - [ ] Configure *Visual Studio Code* to use those fonts.
 - [ ] Configure *Visual Studio 2017* to use those fonts.
 
-⚜️ Folder Icons
----------------
+📁 Folder Icons
+----------------
 - [ ] Open the *File Explorer* and go to the *folder icons* subfolder.
 - [ ] Activate the 'Large Icon' view and select the appropriate icon.
 - [ ] Copy that icon file into your folder and rename it to 'folder.jpg'.
