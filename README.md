@@ -4,7 +4,7 @@ My Settings
 
 🔧 Preparation
 ---------------
-- [ ] **Git** already installed? If yes, execute in a terminal window: `cd ~; git clone https://github.com/fleschutz/my-settings`
+- [ ] **Git** installed? If yes, execute in a terminal window: `cd ~; git clone https://github.com/fleschutz/my-settings`
 - [ ] **Otherwise,** download and extract this repo into the home folder (see green button above).
 
 📲 Basic Apps
