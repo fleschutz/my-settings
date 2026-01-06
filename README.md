@@ -2,7 +2,7 @@ My Settings
 ===========
 **Make yourself comfortable on any Android/Linux/Windows/etc. machine. Here are my personal settings to set up everything ASAP.**
 
-🔧 Preparation
+📋 Preparation
 ---------------
 - [ ] **Git available?** If yes, execute in a terminal window: `cd ~; git clone https://github.com/fleschutz/my-settings`
 - [ ] **Otherwise,** download and extract this repo into the home folder (see green button above).
