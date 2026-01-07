@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+	<!--<DistributionLayouts AllowEditing="false"/>-->
+	<!--<FreezeBehavior SetNormalSpeed="true"/>-->
+	<!--<RecordingBehavior UnfreezeOnResume="true" UnfreezeOnReplay="true" EphemeralRecordings="true"/>-->
+	<!--<VisibilityChecks Default="false"/>-->
+	<!--<ScreenConfigMonitoring Enabled="true"/>-->
+	<!--<SimulationGroup Maximum="1"/>-->
+	<!-- <LauncherVersionCheck Enabled="false"/> -->
+	<ExerciseVersionMatchEnforced Enabled="false"/>
+	<!--<AudioConfiguration AutomaticGeneration="false"/>-->
+</Configuration>
