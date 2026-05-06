@@ -30,6 +30,12 @@ My Settings
 - [ ] Activate the 'Large Icon' view and select the appropriate icon.
 - [ ] Copy that icon file into your folder and rename it to 'folder.jpg'.
 
+📸 Auto-Screenshot
+-------------------
+- [ ] Install Greenshot on Windows.
+- [ ] Configure it to capture the screen on Print key.
+- [ ] Configure it to capture a region on Ctrl+Print key.
+- [ ] Configure it to automatically copy to clipboard and save to the screenshots folder.
 
 📧 Feedback
 ------------
