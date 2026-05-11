@@ -30,12 +30,14 @@ My Settings
 - [ ] Activate the 'Large Icon' view and select the appropriate icon.
 - [ ] Copy that icon file into your folder and rename it to 'folder.jpg'.
 
-📸 Auto-Screenshot
--------------------
-- [ ] Install Greenshot on Windows.
-- [ ] Configure it to capture the screen on Print key.
-- [ ] Configure it to capture a region on Ctrl+Print key.
-- [ ] Configure it to automatically copy to clipboard and save to the screenshots folder.
+📸 Semi-automatic Screenshots
+------------------------------
+Use these settings to be prepared when something interesting pops up:
+
+- [ ] Uninstall Snipping Tool and deactivate Print key in Windows settings.
+- [ ] Install Greenshot and configure it as follows:
+- [ ] Capture the whole screen on Print key, and capture a region on Ctrl+Print key.
+- [ ] Configure it to automatically copy to clipboard and automatically save to the screenshots folder.
 
 📧 Feedback
 ------------
